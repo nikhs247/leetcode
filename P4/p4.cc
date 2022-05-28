@@ -29,6 +29,7 @@ vector<string> letterCombinations(string digits) {
 										{'8', {'t', 'u', 'v'}},
 										{'9', {'w', 'x', 'y', 'z'}}
 									};
+	// Pop and Push from one stack to another as new combinations are made
 	stack<string> st1;
 	stack<string> st2;
 	vector<char> d1 = d2c[digits[0]];
