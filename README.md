@@ -7,3 +7,4 @@
 | May 28, 2022| [Phone Number Letter Combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) 	| [P4](P4)  	|
 | May 29, 2022| [Max Product Word Length](https://leetcode.com/problems/maximum-product-of-word-lengths/) 					| [P5](P5)  	|
 | June 2, 2022| [Remove Nth Node from Last](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)				| [P6](P6)		|
+| June 5, 2022| [All N-Queens](https://leetcode.com/problems/n-queens/)														| [P7](P7)		|

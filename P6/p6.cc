@@ -9,6 +9,8 @@ struct ListNode {
 };
  
 ListNode* removeNthFromEnd(ListNode* head, int n) {
+	// Time: O(N), where N is the number of elements
+	// Space: O(1)
 	ListNode *ptr1 = head, *ptr2 = head;
 	int ptr1sz = 1;
 	int ptr2sz = 1;
