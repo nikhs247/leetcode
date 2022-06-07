@@ -8,3 +8,6 @@
 | May 29, 2022| [Max Product Word Length](https://leetcode.com/problems/maximum-product-of-word-lengths/) 					| [P5](P5)  	|
 | June 2, 2022| [Remove Nth Node from Last](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)				| [P6](P6)		|
 | June 5, 2022| [All N-Queens](https://leetcode.com/problems/n-queens/)														| [P7](P7)		|
+| June 6, 2022| [Merge sorted list](https://leetcode.com/problems/merge-sorted-array/)										| [P8](P8)		|
+| June 6, 2022| [Merge sorted linked list using splicing](https://leetcode.com/problems/merge-two-sorted-lists/)			| [P9](P9)		|
+| June 6, 2022| [Valid parantheses](https://leetcode.com/problems/valid-parentheses/)										| [P10](P10)	|
