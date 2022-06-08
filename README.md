@@ -11,3 +11,5 @@
 | June 6, 2022| [Merge sorted list](https://leetcode.com/problems/merge-sorted-array/)										| [P8](P8)		|
 | June 6, 2022| [Merge sorted linked list using splicing](https://leetcode.com/problems/merge-two-sorted-lists/)			| [P9](P9)		|
 | June 6, 2022| [Valid parantheses](https://leetcode.com/problems/valid-parentheses/)										| [P10](P10)	|
+| June 7, 2022| [Merge K Sorted Linked List](https://leetcode.com/problems/merge-k-sorted-lists/)							| [P11](P11)	|
+| June 7, 2022| [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)			| [P12](P12)	|
