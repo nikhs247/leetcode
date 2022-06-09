@@ -13,3 +13,7 @@
 | June 6, 2022| [Valid parantheses](https://leetcode.com/problems/valid-parentheses/)										| [P10](P10)	|
 | June 7, 2022| [Merge K Sorted Linked List](https://leetcode.com/problems/merge-k-sorted-lists/)							| [P11](P11)	|
 | June 7, 2022| [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)			| [P12](P12)	|
+| June 8, 2022| [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)			| [P13](P13)	|
+| June 8, 2022| [Two Sum II - Sorted input array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)			| [P14](P14)	|
+| June 8, 2022| [Remove duplicates in sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)		| [P15](P15)	|
+| June 8, 2022| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)								| [P16](P16)	|
