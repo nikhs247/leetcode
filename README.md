@@ -17,3 +17,6 @@
 | June 8, 2022| [Two Sum II - Sorted input array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)			| [P14](P14)	|
 | June 8, 2022| [Remove duplicates in sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)		| [P15](P15)	|
 | June 8, 2022| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)								| [P16](P16)	|
+| June 9, 2022| [Longest substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)			| [P17](P17)	|
+| June 9, 2022| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)											| [P18](P18)	|
+| June 9, 2022| [Remove element from array](https://leetcode.com/problems/remove-element/)									| [P19](P19)	|

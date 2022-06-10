@@ -4,7 +4,7 @@
 using namespace std;
 
 int removeDuplicates(vector<int>& nums) {
-	// Time = O(n), n is the numbr of elements
+	// Time = O(n), n is the number of elements
 	// Space: O(1)
 	int req_idx = 0;
 	int n = nums.size();
