@@ -23,3 +23,4 @@
 | June 26, 2022			| [Implement strStr](https://leetcode.com/problems/implement-strstr/)														| [P20](P20)		|
 | June 28, 2022			| [Deletions for unique char count](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)	| [P21](P21)		|
 | July 12, 2022			| [Square using matchsticks](https://leetcode.com/problems/matchsticks-to-square/)											| [P22](P22)		|
+| July 12, 2022			| [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)						| [P23](P23)		|
