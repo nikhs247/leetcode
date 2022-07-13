@@ -21,4 +21,5 @@
 | June 9, 2022			| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)														| [P18](P18)		|
 | June 9, 2022			| [Remove element from array](https://leetcode.com/problems/remove-element/)												| [P19](P19)		|
 | June 26, 2022			| [Implement strStr](https://leetcode.com/problems/implement-strstr/)														| [P20](P20)		|
-| June 28, 2022			| [Deletions for unique char count](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)	| [P21](P21)	|
+| June 28, 2022			| [Deletions for unique char count](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)	| [P21](P21)		|
+| July 12, 2022			| [Square using matchsticks](https://leetcode.com/problems/matchsticks-to-square/)											| [P22](P22)		|
