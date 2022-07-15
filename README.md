@@ -25,3 +25,4 @@
 | July 12, 2022			| [Square using matchsticks](https://leetcode.com/problems/matchsticks-to-square/)											| [P22](P22)		|
 | July 13, 2022			| [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)						| [P23](P23)		|
 | July 14, 2022			| [Binary tree from preorder and inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)	| [P24](P24)		|
+| July 15, 2022			| [Maximum area of Island ](https://leetcode.com/problems/max-area-of-island/)	| [P25](P25)		|
