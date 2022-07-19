@@ -27,3 +27,4 @@
 | July 14, 2022			| [Binary tree from preorder and inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)	| [P24](P24)		|
 | July 15, 2022			| [Maximum area of Island ](https://leetcode.com/problems/max-area-of-island/)	| [P25](P25)		|
 | July 18, 2022			| [Maximal word at string end ](https://leetcode.com/problems/length-of-last-word/)	| [P26](P26)		|
+| July 18, 2022			| [Pascal's triangle ](https://leetcode.com/problems/pascals-triangle/)	| [P27](P27)		|
