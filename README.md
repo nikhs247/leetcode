@@ -28,3 +28,4 @@
 | July 15, 2022			| [Maximum area of Island ](https://leetcode.com/problems/max-area-of-island/)	| [P25](P25)		|
 | July 18, 2022			| [Maximal word at string end ](https://leetcode.com/problems/length-of-last-word/)	| [P26](P26)		|
 | July 18, 2022			| [Pascal's triangle ](https://leetcode.com/problems/pascals-triangle/)	| [P27](P27)		|
+| July 18, 2022			| [Plus One ](https://leetcode.com/problems/plus-one/)	| [P28](P28)		|
