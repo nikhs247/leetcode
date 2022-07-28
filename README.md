@@ -30,3 +30,4 @@
 | July 18, 2022			| [Pascal's triangle ](https://leetcode.com/problems/pascals-triangle/)	| [P27](P27)		|
 | July 18, 2022			| [Plus One ](https://leetcode.com/problems/plus-one/)	| [P28](P28)		|
 | July 19, 2022			| [Plus One ](https://leetcode.com/problems/add-binary/)	| [P29](P29)		|
+| July 27, 2022			| [Valid Anagram ](https://leetcode.com/problems/add-binary/)	| [P30](P30)		|
