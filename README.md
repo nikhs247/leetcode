@@ -31,3 +31,4 @@
 | July 18, 2022			| [Plus One ](https://leetcode.com/problems/plus-one/)	| [P28](P28)		|
 | July 19, 2022			| [Plus One ](https://leetcode.com/problems/add-binary/)	| [P29](P29)		|
 | July 27, 2022			| [Valid Anagram ](https://leetcode.com/problems/add-binary/)	| [P30](P30)		|
+| July 27, 2022			| [Square root ](https://leetcode.com/problems/sqrtx/)	| [P31](P31)		|
